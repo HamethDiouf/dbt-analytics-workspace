@@ -1,0 +1,15 @@
+# File systems & IDE
+.vscode/
+.DS_Store
+
+# Ignore dbt artifacts
+target/
+dbt_packages/
+logs/
+.env
+
+# Ignore the dbt virtual environment folder
+dbt-env/
+
+# Ignore csv files in the seeds folder
+seeds/*.csv
