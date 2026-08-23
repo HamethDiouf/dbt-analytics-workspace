@@ -40,7 +40,8 @@ Avant de commencer, vérifiez que vous avez installé :
 ### 2. Cloner le Projet
 
 ```bash
-git clone [https://github.com/HamethDiouf/dbt-analytics-workspace.git](https://github.com/HamethDiouf/dbt-analytics-workspace.git)
+git clone https://github.com/HamethDiouf/dbt-analytics-workspace.git
+
 cd dbt-analytics-workspace
 
 3. Créer et Activer l'Environnement Virtuel (venv)
