@@ -11,7 +11,7 @@ logs/
 # Ignore the dbt virtual environment folder
 dbt-env/
 
-# 
+# ignore dbt project configuration file
 dbt_project.yml
 
 # Ignore csv files in the seeds folder
